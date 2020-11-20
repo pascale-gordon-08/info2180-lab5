@@ -40,6 +40,7 @@ CREATE TABLE `cities` (
 -- Dumping data for table `cities`
 --
 
+
 LOCK TABLES `cities` WRITE;
 /*!40000 ALTER TABLE `cities` DISABLE KEYS */;
 INSERT INTO `cities` VALUES (1,'Kabul','AFG','Kabol',1780000),

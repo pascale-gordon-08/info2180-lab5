@@ -1,1 +1,39 @@
 /* Add your own styles */
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background-color: lightcoral;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    font-weight: 200;
+    font-size: large;
+}
+
+
+#lookup{
+    background-color: paleturquoise;
+    margin-left: 2%;
+
+}
+
+#controls{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+
+button:hover{
+    background-color: bisque;
+    color: crimson;
+
+}
+
+#result{
+    text-align: center;
+    
+
+}
